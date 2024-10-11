@@ -1,0 +1,20 @@
+2024-10-11 18:54:41,957 : INFO : test_form : the test starts!
+2024-10-11 18:54:42,244 : INFO : test_form : filling data into the form.
+2024-10-11 18:54:42,370 : INFO : test_form : firstname entered
+2024-10-11 18:54:42,457 : INFO : test_form : lastname entered
+2024-10-11 18:54:42,558 : INFO : test_form : email entered
+2024-10-11 18:54:42,634 : INFO : test_form : gender option clicked
+2024-10-11 18:54:42,708 : INFO : test_form : mobile no entered
+2024-10-11 18:54:42,862 : INFO : test_form : hobbie entered
+2024-10-11 18:54:42,936 : INFO : test_form : address entered
+2024-10-11 18:54:43,089 : INFO : test_form : submit form clicked!
+2024-10-11 18:54:45,689 : INFO : test_form : the test starts!
+2024-10-11 18:54:46,022 : INFO : test_form : filling data into the form.
+2024-10-11 18:54:46,391 : INFO : test_form : firstname entered
+2024-10-11 18:54:46,456 : INFO : test_form : lastname entered
+2024-10-11 18:54:46,549 : INFO : test_form : email entered
+2024-10-11 18:54:46,598 : INFO : test_form : gender option clicked
+2024-10-11 18:54:46,659 : INFO : test_form : mobile no entered
+2024-10-11 18:54:46,711 : INFO : test_form : hobbie entered
+2024-10-11 18:54:46,779 : INFO : test_form : address entered
+2024-10-11 18:54:46,832 : INFO : test_form : submit form clicked!
